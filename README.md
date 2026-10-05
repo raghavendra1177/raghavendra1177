@@ -1,6 +1,6 @@
 # Hi, I'm Raghavendra 👋
 
-## Business Analyst | QA | Data & AI Enthusiast
+## QA | Data & AI Enthusiast
 
 I am an experienced QA professional with a strong background in data migration, testing, requirements analysis, and automation.
 
